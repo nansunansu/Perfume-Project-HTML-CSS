@@ -3,3 +3,56 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    margin-left:60px;
+    margin-right:60px;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    border:black solid 2px; width:100%;
+}
+.nav1{
+    border:black solid 2px; width:100%; padding-top: 12px; padding-bottom: 12px; display: flex; justify-content: end;  align-items: center;
+}
+.scentstyle{
+    width:300px; 
+    
+    
+    
+}
+.currency{
+    width:200px;
+    
+}
+.icons{
+    width:100px; height:40px; border-radius: 100px; display: flex; justify-content: center; align-items: center; gap:10px; margin-right:170px; margin-left: 10px; 
+}
+.i1:hover{
+    background-color: rgb(237, 237, 237); border-radius: 100px;
+}
+.i2:hover{
+    background-color: rgb(237, 237, 237); border-radius: 100px;
+}
+.i3:hover{
+    background-color: rgb(237, 237, 237); border-radius: 100px;
+}
+.nav2{
+    border:black solid 2px; width:100%; padding-top: 12px; padding-bottom: 12px; display: flex;  align-items: center;
+}
+.menu{
+    width:100px; height:40px; border-radius: 100px; display: flex; justify-content: left; align-items: center; margin-left: 150px;
+}
+#menutext{
+    margin-left: 20px;
+}
+.brand{
+    width:400px; margin-left:345px;
+}
+.button{
+    width:400px; display: flex; justify-content: center;
+}
+.nav3{
+    border:black solid 2px; width:100%; padding-top: 12px; padding-bottom: 12px;
+}
